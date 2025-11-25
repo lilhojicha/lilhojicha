@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 - <b>Active Directory Homelab</b>
-  - [Windows 10 & Server ... in Virtual Box](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows 10 & Server ... in Virtual Box](https://github.com/lilhojicha/ActiveDirectory)
 - <b>Ticketing Project</b>
-  - [Windows 10 & Server ... in Virtual Box](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows 10 & Server ... in Virtual Box](https://github.com/lilhojicha/TicketingTutorial)
 
 <!-- <h2>👨‍💻 Software Development Projects:</h2>
 
