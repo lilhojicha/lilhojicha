@@ -1,10 +1,20 @@
-<h1>Hi, I'm Hyang-sill! <br/><a href="https://github.com/lilhochija">Programmer</a>, <a href="www.linkedin.com/in/hyang-sill-doo-0911aa137">Cybersecurity Professional</a></h1>
+# <a href="www.linkedin.com/in/hyang-sill-doo-0911aa137">Hyang-sill Doo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 IT Projects:</h2>
-- <b>Active Directory Homelab</b>
-  - [Windows 10 & Server ... in Virtual Box](https://github.com/lilhojicha/ActiveDirectory)
-- <b>Ticketing Project</b>
-  - [Windows 10 & Server ... in Virtual Box](https://github.com/lilhojicha/TicketingTutorial)
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+## 👨‍💻 IT Projects:
+- **[Active Directory Homelab](https://github.com/lilhojicha/ActiveDirectory)**
+- **[Ticketing Project](https://github.com/lilhojicha/TicketingTutorial)**
 
 <!-- <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -32,17 +42,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor -->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
