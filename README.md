@@ -25,6 +25,6 @@ configured, ran into problems with, and documented along the way.
 
 ## 🛡️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/lilhojicha/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/lilhojicha/programmatic-vulnerability-remediations)**
 
