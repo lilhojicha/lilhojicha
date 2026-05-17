@@ -16,7 +16,7 @@ configured, ran into problems with, and documented along the way.
 - 📚 BLT1 (in progress)
 
 **Working toward:**
-- 🎯 IT Support role / Junior IT Systems 
+- 🎯 IT Support role / Junior SOC Analyst
 
 ## 👨‍💻 IT Projects:
 - **[Active Directory Homelab](https://github.com/lilhojicha/ActiveDirectory)**
