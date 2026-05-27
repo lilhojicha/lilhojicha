@@ -13,18 +13,21 @@ configured, ran into problems with, and documented along the way.
 - ✅ CompTIA A+
 - ✅ CompTIA Security+
 - 📚 CySA+ (in progress)
-- 📚 BLT1 (in progress)
 
 **Working toward:**
 - 🎯 IT Support role / Junior SOC Analyst
 
 ## 👨‍💻 IT Projects:
 - **[Active Directory Homelab](https://github.com/lilhojicha/ActiveDirectory)**
-- **[Ticketing Project](https://github.com/lilhojicha/TicketingTutorial)**
+- **[Ticketing Project (in progress)](https://github.com/lilhojicha/TicketingTutorial)**
 
 
 ## 🛡️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/lilhojicha/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation (in progress)](https://github.com/lilhojicha/vulnerability-management-program)**
+
+<!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/lilhojicha/programmatic-vulnerability-remediations)**
+- 📚 BLT1 (in progress)
+-->
 
